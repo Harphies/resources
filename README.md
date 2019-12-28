@@ -6,3 +6,4 @@
 - [Deep Learning Specialization Courses](https://www.deeplearning.ai/)
 - [Deep AI API](https://deepai.org/)
 - [Fast AI Courses](https://www.fast.ai/)
+- [Free Deep Learning From official Pytorch on getting started with Pytorch](https://pytorch.org/deep-learning-with-pytorch)
